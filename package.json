@@ -1,0 +1,26 @@
+{
+  "name": "react-scroll-video",
+  "version": "1.0.0",
+  "description": "This Component React Allowed ",
+  "main": "/dist/ScrollVideo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luis030821/react-scroll-video.git"
+  },
+  "author": "Luis Ortega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luis030821/react-scroll-video/issues"
+  },
+  "homepage": "https://github.com/luis030821/react-scroll-video#readme",
+  "dependencies": {
+    "react": "18.2.0",
+    "typescript": "4.9.4"
+  },
+  "devDependencies": {
+    "@types/react": "18.0.26"
+  }
+}
