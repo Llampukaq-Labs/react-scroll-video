@@ -1,8 +1,9 @@
 {
   "name": "react-scroll-video",
-  "version": "1.0.0",
-  "description": "This Component React Allowed ",
-  "main": "/dist/ScrollVideo.js",
+  "version": "1.0.3",
+  "description": "This Component Scroll Video ",
+  "main": "/dist/index.js",
+  "typings": "/dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
