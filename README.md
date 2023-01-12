@@ -6,7 +6,7 @@ This component allows scrolling in videos
 
 ```js
 import React from "react";
-import ScrollVideo from "../react-scroll-video/ScrollVideo";
+import ScrollVideo from "react-scroll-video";
 
 export default function Index() {
   return (
